@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=520&lines=Student+%26+Aspiring+Software+Developer;Learning+by+Building+Projects;Exploring+Open+Source+%F0%9F%9A%80;Future+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=520&lines=Student+%26+Software+Developer;Learning+by+Building+Projects;Exploring+Open+Source+%F0%9F%9A%80;Full+Stack+Developer" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 **Student** passionate about technology and problem-solving  
-- 💻 Learning **DSA, OOP, Web Development & Git/GitHub**
+- 💻 **DSA, OOP, Web Development & Git/GitHub**
 - 🌱 Building real-world projects to sharpen skills
 - 🔍 Interested in **Open Source Contributions**
 - ⚡ Fun fact: *I enjoy debugging more than coding 😄*
@@ -25,7 +25,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github,vscode,mongodb" />
+  <img src="https://skillicons.dev/icons?i=cpp,Python,MERN Stack,git,github,Mongodb , MYSQL" />
 </p>
 
 ---
